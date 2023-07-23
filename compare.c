@@ -2,7 +2,7 @@
 #include<stdlib.h>
 //#include"moviedetails.c"
 #include"function.h"
-#include<string.k>
+#include<string.H>
 #include "unity.h"
 
 
